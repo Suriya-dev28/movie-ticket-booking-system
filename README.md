@@ -12,7 +12,7 @@ This project demonstrates various SQL concepts including DDL, DML, DQL, Joins, S
 - Revenue Calculation
 - Duplicate Seat Booking Prevention
 - Automated Payment Status Updates
-- 
+  
 ## Technologies Used
 | Technology | Description |
 |------------|-------------|
