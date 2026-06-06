@@ -30,7 +30,6 @@ This project demonstrates various SQL concepts including DDL, DML, DQL, Joins, S
 | bookings | Stores booking records |
 | payment_status | Stores payment information |
 | shows | Stores movie show schedules |
-| staff | Stores theater staff details |
 | food_orders | Stores food and snack orders |
 | reviews | Stores customer movie reviews and ratings |
 | offers | Stores discount and promotional offers |
